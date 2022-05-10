@@ -1,0 +1,19 @@
+Options :
+
+• -h: Pour afficher le help détaillé à partir d’un fichier texte
+
+• -g: Pour afficher un menu textuel et gérer les fonctionnalités de façon graphique(Utilisation de YAD).
+
+• -v: Pour afficher le nom des auteurs et la version du code.
+
+• -j : créer le fichier journal des fichiers supprimés
+
+• -c : compresser un fichier
+
+• -s : supprimer un fichier
+
+• -p : parcourir des fichiers pour supprimer ou compresser
+
+• -l : lister des fichiers de taille supérieur à 100ko
+
+• -m : pour afficher un menu textuel (en boucle) qui permet d'accéder à chaque fonction
